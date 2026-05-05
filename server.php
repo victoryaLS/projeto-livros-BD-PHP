@@ -1,6 +1,6 @@
 <?php
 
-$_SERVER["HOMEPATH"]="~";
+$_SERVER["HOMEPATH"] = "~";
 
 // php -S localhost:5501
 

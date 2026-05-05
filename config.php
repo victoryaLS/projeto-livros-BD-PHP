@@ -2,8 +2,8 @@
 
 return [
   'database' => [
-  'driver' => 'sqlite',
-  'database' => 'database.sqlite'
+    'driver' => 'sqlite',
+    'database' => 'database.sqlite'
   ],
 
 ];
